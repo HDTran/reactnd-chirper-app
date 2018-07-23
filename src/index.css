@@ -95,10 +95,12 @@ li {
 .tweet-info > div > span:first-child {
   font-weight: bold;
   margin-right: 5px;
+  display: block;
 }
 .tweet-info > div > span:nth-child(2) {
   color: #969696;
   font-size: 16px;
+  display: block;
 }
 .tweet-info > div > div {
   color: #969696;
